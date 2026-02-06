@@ -41,7 +41,7 @@ opentelemetry-semantic-conventions==0.41b0
 opentelemetry-util-http==0.41b0
 packaging==23.2
 prometheus-client==0.18.0
-protobuf==4.25.0
+protobuf==5.29.6
 pydantic==2.5.0
 pydantic_core==2.14.1
 pyparsing==3.1.1
